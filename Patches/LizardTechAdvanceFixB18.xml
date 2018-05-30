@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ResearchProjectDef[defName = "LizardmanTechnic"]</xpath>
+				<value>
+				<tags>
+					<li>ta-ignore</li>
+				</tags>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ResearchProjectDef[defName = "LizardmanWeapon"]</xpath>
+				<value>
+				<tags>
+					<li>ta-ignore</li>
+				</tags>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+</Patch>

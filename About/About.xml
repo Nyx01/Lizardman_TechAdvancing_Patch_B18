@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Lizardman and Tech Advancing Patch B18</name>
+		<author>Nyx</author>
+		<url></url>
+		<targetVersion>0.18.1722</targetVersion>
+		<description>
+		
+	
+***********************
+	Requires
+	
+Lizardman B18
+Tech Advancing B18
+***********************
+
+	
+This is just a fix for making Tech Advancing by GHXX play nice with the Lizardman mod by Undereastern. Lizardman has some research that can only be researched if you're playing as a lizardman tribe, but if you're not, it just sits there and doesn't let you research it. This halts your ability to advance your tech level without tinkering around with the Tech Advancing rules quite a bit, which can be very tedious unless you know what you're doing. So, I made this mod for ease of use. Obviously requires both other mods, and place below them in your load order. It SHOULD make Tech Advancing ignore the Lizardman research as being something required to advance your tech level.
+
+Easy and simple. Let me know if there's any issues.
+	
+		</description>
+</ModMetaData>
